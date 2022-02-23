@@ -1,0 +1,8 @@
+{
+  "name": "type-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
